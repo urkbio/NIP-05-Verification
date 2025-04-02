@@ -1,7 +1,7 @@
 {
   "names": {
     "joomaen": "77c2969ea4db4ca1859305d7ebabf6053fd132ddcc88e1b178bfd938a33cfa50"
-  }
+  },
   "relays": {
     "77c2969ea4db4ca1859305d7ebabf6053fd132ddcc88e1b178bfd938a33cfa50": [ "wss://nostr.235421.xyz" ]
   }
