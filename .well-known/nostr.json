@@ -1,10 +1,12 @@
 {
   "names": {
     "_": "77c2969ea4db4ca1859305d7ebabf6053fd132ddcc88e1b178bfd938a33cfa50",
-    "memos": "64b49df8f2aeb8714b2a710a33b2ac7e6bb9ca6d3278b5bbd08825e0f54c5eaf"
+    "memos": "64b49df8f2aeb8714b2a710a33b2ac7e6bb9ca6d3278b5bbd08825e0f54c5eaf",
+    "iccc": "312366b557678b5a5e9248eeb3137a5ede47846fae78641dcddd6b3da2ea34fe"
   },
   "relays": {
     "77c2969ea4db4ca1859305d7ebabf6053fd132ddcc88e1b178bfd938a33cfa50": [ "wss://relay.damus.io", "wss://nostr.joomaen.com" ],
-    "64b49df8f2aeb8714b2a710a33b2ac7e6bb9ca6d3278b5bbd08825e0f54c5eaf": [ "wss://relay.damus.io", "wss://nostr.joomaen.com" ]
+    "64b49df8f2aeb8714b2a710a33b2ac7e6bb9ca6d3278b5bbd08825e0f54c5eaf": [ "wss://relay.damus.io", "wss://nostr.joomaen.com" ],
+    "312366b557678b5a5e9248eeb3137a5ede47846fae78641dcddd6b3da2ea34fe": [ "wss://relay.damus.io", "wss://nostr.joomaen.com" ]
   }
 }
